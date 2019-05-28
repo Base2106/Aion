@@ -15,7 +15,7 @@ type Config struct {
 	DiscordToken string `json:"NTgyNzk5OTY2ODkyODUxMjAw.XOzPvA.eI7zt_D82RN4G7g0P39q24aDRvo"`
 	VkToken      string `json:"676b69763fcf61146cc625ef41fca4f013d943dd2b6cf677b648df55a2db4518899cb66f9667625c8ef8c"`
 	ChannelID    string `json:"481815283951075329"`
-	GroupID      string `json:"https://vk.com/testdiscord2"`
+	GroupID      string `json:"testdiscord2"`
 	LogPath      string `json:"log_path"`
 }
 
